@@ -1,0 +1,11 @@
+.navbar_link {
+  margin-right: 15px;
+  color: black !important;
+}
+.navbar_logo{
+  color: black !important;
+}
+.navbar_link:hover,
+.navbar_logo:hover {
+  color: rgb(0, 0, 0);
+}
